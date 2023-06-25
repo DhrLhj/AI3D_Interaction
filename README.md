@@ -8,7 +8,7 @@ A production list of AI3D Interaction Group.
 - [Published Papers](#papers)
 - [Implementations](#implementations) 
 - [References](#references)
-- [Thesis reading](#Reading)
+- [Thesis reading](#reading)
 
 ## Papers
 
@@ -54,7 +54,9 @@ A production list of AI3D Interaction Group.
 
 ## Implementations
 
-## Reading
+## reading
+
+[Awesome Multimodal Perception Cognition and Presentation](https://github.com/DhrLhj/Awesome-Multimodal-Perception-Cognition-and-Presentation)
 
 
 
