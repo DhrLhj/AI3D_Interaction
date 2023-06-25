@@ -27,13 +27,21 @@ A production list of AI3D Interaction Group.
 
 #### Publications
 
+#### Patents and Software copyrights
+
+
+#### Award-winning Project
+
 ## 2025
 
+#### Publications
+
+#### Patents and Software copyrights
 
 
-## References
+#### Award-winning Project
 
-- [Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+
 
 ## License 
 MIT
