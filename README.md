@@ -14,7 +14,7 @@ A production list of AI3D Interaction Group.
 
 | Name | Author | Place | Source | Code | 
 |---:|:---|:---|:---|:---| 
-| GestureTeach: A Gesture Guided online Teaching Interactive Mode | [刘泓君](https://github.com/DhrLhj) | CASA 2023 workshop (AniNex) | [our work](https://doi.org/10.1109/jbhi.2020.3022989) | [this repo](https://github.com/helme/ecg_ptbxl_benchmarking/)| 
+| GestureTeach: A Gesture Guided online Teaching Interactive Mode | [刘泓君](https://github.com/DhrLhj) | [CASA 2023 workshop (AniNex)](https://cyprusconferences.org/casa2023/) | [AniNex Full Papers](https://cyprusconferences.org/casa2023/proceedings/) | --- | 
 
 
 
