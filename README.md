@@ -8,7 +8,7 @@ A production list of AI3D Interaction Group.
 - [Published Papers](#papers)
 - [Implementations](#implementations) 
 - [References](#references)
-- [Thesis reading](https://github.com/DhrLhj/awesome-diffusion-low-level-vision)
+- [Thesis reading](#Reading)
 
 ## Papers
 
@@ -53,6 +53,10 @@ A production list of AI3D Interaction Group.
 - [ILVR: Conditioning Method for Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2108.02938), Jooyoung Choi et al., ICCV 2021 | [Code](https://github.com/jychoi118/ilvr_adm)
 
 ## Implementations
+
+## Reading
+
+
 
 #### PyTorch
 - [[SR3] Image-Super-Resolution-via-Iterative-Refinement](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
